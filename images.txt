@@ -1,1 +1,1 @@
-eipwork/kuboard:latest
+docker.io/dyrnq/controller:v1.5.1
