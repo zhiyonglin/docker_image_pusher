@@ -1,1 +1,1 @@
-tomcat:8.5-jre10-slim
+xuxueli/xxl-job-admin:2.4.0
