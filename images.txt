@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.0
+elasticsearch:7.15.5
